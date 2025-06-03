@@ -1,0 +1,13 @@
+Install dependencies:
+ npm install
+
+
+Start the local server:
+ npm start
+
+
+In another terminal, run Lighthouse audit:
+ npm run lighthouse
+
+
+This will generate a lighthouse-report.html file in the root directory, which you can open in your browser to view the performance and other audits.

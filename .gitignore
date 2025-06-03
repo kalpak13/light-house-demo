@@ -1,0 +1,5 @@
+# Node.js dependencies
+node_modules/
+
+# Lighthouse report
+lighthouse-report.html
